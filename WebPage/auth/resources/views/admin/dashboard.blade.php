@@ -28,7 +28,7 @@
 
 
 
-  <section class="navbar">
+  <section class="navbar1">
     <div class="container">
       <div class="content">
         <nav>
@@ -37,7 +37,7 @@
             <li><a href="index.html">ABOUT</a></li>
             <li><a href="contact.html">GALLERY</a></li>
             <li><a href="account.html">TESTIMONIAL</a></li>
-            <li><a href="/admin/dashboard">Dashboard</a></li>
+            <li><a href="account.html">SERVICES</a></li>
           </ul>
         </nav>
         <span class="fa fa-bars" onclick="menutoggle()"></span>
